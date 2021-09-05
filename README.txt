@@ -1,0 +1,1 @@
+This Project has 100 KQL queries and bifurcated into complexity level from 0 to 100. If you are a novice and do not know anything about the language, start from complexity Level 0. Otherwise choose a Level as per your requirement.
